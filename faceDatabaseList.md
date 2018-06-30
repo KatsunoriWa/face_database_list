@@ -12,3 +12,4 @@
 | AT&T Facedatabase | http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html |  |
 | The CMU Multi-PIE Face Database | http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html | | |
 | CAS-PEAL Face Database | http://www.jdl.ac.cn/peal/index.html | | |
+| The Japanese Female Facial Expression (JAFFE) Database | http://www.kasrl.org/jaffe.html | | |

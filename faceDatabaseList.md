@@ -13,3 +13,5 @@
 | The CMU Multi-PIE Face Database | http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Multi-Pie/Home.html | | |
 | CAS-PEAL Face Database | http://www.jdl.ac.cn/peal/index.html | | |
 | The Japanese Female Facial Expression (JAFFE) Database | http://www.kasrl.org/jaffe.html | | |
+| VGGFace2 | http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/ | https://fg2018.cse.sc.edu/FG2018-booklet.pdf | A dataset for recognising faces across pose and age |
+

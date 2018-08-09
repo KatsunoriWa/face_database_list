@@ -2,7 +2,7 @@
 
 | Name | URL |   |   |
 |------|-----|---|---|
-|WIDER FACE: A Face Detection Benchmark | http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/ | | |
+|WIDER FACE: A Face Detection Benchmark | http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/ | | 顔照合の性能比較に使われることの多いデータベース|
 | The MUCT Face Database | https://github.com/StephenMilborrow/muct | | |
 | CASIA WebFace Database | http://www.cbsr.ia.ac.cn/english/CASIA-WebFace-Database.html | | |
 | Labeled Faces in the Wild Home | http://vis-www.cs.umass.edu/lfw/ | | |
@@ -14,4 +14,5 @@
 | CAS-PEAL Face Database | http://www.jdl.ac.cn/peal/index.html | | |
 | The Japanese Female Facial Expression (JAFFE) Database | http://www.kasrl.org/jaffe.html | | |
 | VGGFace2 | http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/ | https://fg2018.cse.sc.edu/FG2018-booklet.pdf | A dataset for recognising faces across pose and age |
+|FDDB: Face Detection Data Set and Benchmark| http://vis-www.cs.umass.edu/fddb/ | | http://vis-www.cs.umass.edu/fddb/results.html このページを見ると検出器のROCカーブの比較を見ることができる。|
 

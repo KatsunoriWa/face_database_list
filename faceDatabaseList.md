@@ -16,3 +16,4 @@
 | VGGFace2 | http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/ | https://fg2018.cse.sc.edu/FG2018-booklet.pdf | A dataset for recognising faces across pose and age |
 |FDDB: Face Detection Data Set and Benchmark| http://vis-www.cs.umass.edu/fddb/ | | http://vis-www.cs.umass.edu/fddb/results.html このページを見ると検出器のROCカーブの比較を見ることができる。|
 | VGGFace2 Dataset | http://www.robots.ox.ac.uk/%7Evgg/data/vgg_face2/ | | The dataset contains 3.31 million images of 9131 subjects (identities), with an average of 362.6 images for each subject|
+| Large Age-Gap Face Verification | http://www.ivl.disco.unimib.it/activities/large-age-gap-face-verification/ | |  face verification across large age gaps|
